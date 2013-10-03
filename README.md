@@ -1,0 +1,4 @@
+UzSportNewsParseAPI
+===================
+
+UzSportNewsParseAPI For Android
